@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstLectionJava</string>
+    <string name="show_message">Show message</string>
+    <string name="HelloMsg">I like Android Studio</string>
+</resources>
